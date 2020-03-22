@@ -4,3 +4,5 @@ create focused graphs on the sectors we want to focus on
 put on map (heatmap, or maybe bargraph on map?)
 GE has the most cases, yet the fastest clearance times
 finish pres
+
+https://jupyter-gmaps.readthedocs.io/en/latest/tutorial.html
